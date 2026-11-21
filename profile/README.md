@@ -1,6 +1,6 @@
 # Peakism
 
-**We do everything** — software, content, systems, and whatever comes next. An
+**We do everything**. An
 independent, for-profit organisation; plainly, an organisation of the
 unemployed. Privately held, with earnings shared to holders.
 
